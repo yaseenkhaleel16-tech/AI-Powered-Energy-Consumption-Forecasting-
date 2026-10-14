@@ -65,19 +65,11 @@ Metrics vary slightly by installed library version. MAE and RMSE are errors in k
 ## Dataset
 The program generates 180 days of hourly simulated consumption with daily peaks, weekday/weekend variation, a seasonal component, noise, and a few missing values for the cleaning step.
 
-## GitHub publishing
-Create a repository named `ai-energy-consumption-forecasting`, then run:
-```bash
-git init
-git add .
-git commit -m "Add energy forecasting baseline project"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/ai-energy-consumption-forecasting.git
-git push -u origin main
-```
-Replace `YOUR-USERNAME` with your GitHub username. Never upload private meter/customer data or API keys.
+
 
 ## Limitations and future improvements
 - Uses simulated rather than real meter data.
 - The demonstration model is a baseline; production forecasting needs domain review, real data, seasonality checks, and monitoring.
 - Possible extensions: public energy datasets, weather/calendar features, forecast horizons, Flask API, and a dashboard.
+<img width="1505" height="752" alt="Screenshot 2026-10-14 194212" src="https://github.com/user-attachments/assets/4762ce7e-c594-420e-b187-587e5cfe6864" />
+<img width="1795" height="781" alt="Screenshot 2026-10-14 194147" src="https://github.com/user-attachments/assets/39c96aaa-9962-4de8-a57c-acfbe150b534" />
