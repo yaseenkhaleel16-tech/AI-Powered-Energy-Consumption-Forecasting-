@@ -73,3 +73,6 @@ The program generates 180 days of hourly simulated consumption with daily peaks,
 - Possible extensions: public energy datasets, weather/calendar features, forecast horizons, Flask API, and a dashboard.
 <img width="1505" height="752" alt="Screenshot 2026-10-14 194212" src="https://github.com/user-attachments/assets/4762ce7e-c594-420e-b187-587e5cfe6864" />
 <img width="1795" height="781" alt="Screenshot 2026-10-14 194147" src="https://github.com/user-attachments/assets/39c96aaa-9962-4de8-a57c-acfbe150b534" />
+
+Github: https://github.com/yaseenkhaleel16-tech/AI-Powered-Energy-Consumption-Forecasting
+Linkedin: https://www.linkedin.com/in/yaseen-khaleel-6a535a432/
